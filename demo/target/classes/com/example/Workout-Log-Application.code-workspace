@@ -1,0 +1,14 @@
+/**
+* This is a Code Workspace Source file"
+*/
+
+{
+    "folders": [
+        {
+            "path": "..\\..\\..\\..\\..\\..\\.."
+        }
+    ],
+    "settings": {
+        "java.configuration.updateBuildConfiguration": "interactive"
+    }
+}
